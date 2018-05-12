@@ -1,0 +1,29 @@
+_repo: The-Verbalist--13-A-Manual-Devoted-to-Brief-Discussions-of-the-Right-and-the-Wrong-Use-of-Wor__22457
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ayres, Alfred
+    alias: Osmun, Thomas Embley
+    birthdate: 1825
+    deathdate: 1902
+    gutenberg_agent_id: '25333'
+    url: http://www.gutenberg.org/2009/agents/25333
+description: ''
+gutenberg_issued: '2007-08-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22457'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English language -- Errors of usage'
+- !lcc 'PE'
+title: "The Verbalist\r\nA Manual Devoted to Brief Discussions of the Right and the\
+  \ Wrong Use of Words and to Some Other Matters of Interest to Those Who Would Speak\
+  \ and Write with Propriety."
+url: http://www.gutenberg.org/ebooks/22457
